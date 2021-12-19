@@ -3,7 +3,7 @@ import yagmail
 # Email credentials
 
 EMAIL_USER = 'paresh581345@gmail.com'
-EMAIL_PASS = '4SU16EE416'
+EMAIL_PASS = 'PASSWORD'
 
 
 def send_email(email_user, email_pass, email_to, email_subject, email_body):
